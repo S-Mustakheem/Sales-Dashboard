@@ -41,11 +41,11 @@ Forecasting & Advanced Analytics
 
 **Screenshots \ Demos:**
 This screenshot shows the implemented Sales Dashboard by Author Mr.Shaik Mustakheem
-Example: https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg 
-Skills Demonstrated
-link: WhatsApp Image .jpeg
+Show what the dashboard looks lik.![Alt text]:(https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg )
+Example:![]() 
 
-**Implementation:**
+
+**Skills Demonstrated:**
 Power Query | DAX | Data Modeling | Dashboard Design | Business Intelligence | Data Visualization | Star Schema | KPI Reporting
 
 👨‍💻 Author
