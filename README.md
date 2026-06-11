@@ -39,6 +39,9 @@ SQL Database Integration
 Power BI Service Publishing
 Forecasting & Advanced Analytics
 
+Screenshots \ Demos
+This screenshot shows the implemented Sales Dashboard by Author Mr.Shaik Mustakheem
+Example: 
 Skills Demonstrated
 Power Query | DAX | Data Modeling | Dashboard Design | Business Intelligence | Data Visualization | Star Schema | KPI Reporting
 
