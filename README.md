@@ -42,11 +42,14 @@ Forecasting & Advanced Analytics
 **Skills Demonstrated:**
 Power Query | DAX | Data Modeling | Dashboard Design | Business Intelligence | Data Visualization | Star Schema | KPI Reporting
 
+This screenshot shows the implemented Sales Dashboard by Author Mr.Shaik Mustakheem
+Show what the dashboard looks like:(https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg )
+example: https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg
+
 👨‍💻 Author
 Shaik Mustakheem
 Aspiring Power BI Developer | Data Analytics Enthusiast
 
-This screenshot shows the implemented Sales Dashboard by Author** Mr.Shaik Mustakheem**
-Show what the dashboard looks lik.![Alt text]:(https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg )
-Example: https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg 
+
+
 
