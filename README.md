@@ -38,16 +38,15 @@ Time Intelligence Functions
 SQL Database Integration
 Power BI Service Publishing
 Forecasting & Advanced Analytics
-
-**Screenshots \ Demos:**
-This screenshot shows the implemented Sales Dashboard by Author Mr.Shaik Mustakheem
-Show what the dashboard looks lik.![Alt text]:(https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg )
-Example:![WhatsApp Image .jpeg]() 
-
-
+ 
 **Skills Demonstrated:**
 Power Query | DAX | Data Modeling | Dashboard Design | Business Intelligence | Data Visualization | Star Schema | KPI Reporting
 
 👨‍💻 Author
 Shaik Mustakheem
 Aspiring Power BI Developer | Data Analytics Enthusiast
+
+This screenshot shows the implemented Sales Dashboard by Author** Mr.Shaik Mustakheem**
+Show what the dashboard looks lik.![Alt text]:(https://github.com/S-Mustakheem/Sales-Dashboard/blob/main/WhatsApp%20Image%20.jpeg )
+Example:![WhatsApp Image .jpeg]() 
+
